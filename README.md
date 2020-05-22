@@ -1,6 +1,6 @@
 # Tetris
 
-* A game of Tetris built in JavaScript. Click [here]() to play!
+* A basic game of Tetris built in JavaScript.
 
 ## Technologies Implemented:
 
@@ -10,9 +10,8 @@
 
 ## Screenshots:
 
-![Wireframe]()
-![Wireframe]()
-![Wireframe]()
+![Wireframe](https://i.imgur.com/8aqrhLg.png)
+![Wireframe](https://i.imgur.com/0B39TxC.png)
 
 ## Credits:
 
